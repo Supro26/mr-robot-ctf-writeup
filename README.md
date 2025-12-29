@@ -14,7 +14,9 @@ The goal of this project was to apply practical cybersecurity concepts in a hand
 ## Tools Used
 - Nmap
 - Linux utilities
-- Enumeration tools
+- Gobuster
+- John
+- Hydra
 
 ## Documentation
 The complete PDF walkthrough is available in this repository.
